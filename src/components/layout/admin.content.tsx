@@ -1,4 +1,5 @@
 'use client';
+
 import { Layout } from "antd";
 
 const AdminContent = ({
@@ -18,7 +19,7 @@ const AdminContent = ({
               background: "#ccc",
               borderRadius: "#ccc",
               }}
-              >
+            >
               {children}
           </div>
         </Content>

@@ -16,8 +16,8 @@ const AdminLayout = ({
       <Layout>
         <AdminHeader />
         <AdminContent>
-            {children}
-        </AdminContent>    
+          {children}
+        </AdminContent>
         <AdminFooter />
       </Layout>
     </Layout>
