@@ -1,4 +1,4 @@
-'user client';
+'use client';
 import { Layout, Menu } from "antd";
 import React from "react";
 import { UploadOutlined, UserOutlined, VideoCameraOutlined } from '@ant-design/icons';
